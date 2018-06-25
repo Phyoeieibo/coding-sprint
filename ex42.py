@@ -54,6 +54,6 @@ frank.pet = rover
 
 flipper = Fish()
 
-crouse = Salmon()
+course = Salmon()
 
 harry = Halibut()
